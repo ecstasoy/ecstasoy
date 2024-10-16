@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**ecstasoy/ecstasoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```C++
+    /*
+     *  Maybe dad is right
+     *  I'm still young
+     *  And I can write C++ just as good as anyone
+     *  I know this guy at Lucasarts
+     *  He says they're looking for hands
+     *  In fifteen years I'll be throwing back beers
+     *  With my feet in the sand
+     */
