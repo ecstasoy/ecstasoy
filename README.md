@@ -10,3 +10,5 @@
      */
 ```
 [Shelved - The Mountain Goats](https://open.spotify.com/track/1UhqPEaIg2KAvPs4RXje3m?si=362fbc9644754ef1)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecstasoy)](https://github.com/anuraghazra/github-readme-stats)
